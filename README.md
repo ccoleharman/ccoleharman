@@ -2,4 +2,4 @@
 - 👀 I’m interested in Professional: Software Engineeing, Programming, Web Development, Coding
 - 🌱 I’m currently learning HTML, CSS, Python, JS,C++, Data Structures, Algorithms
 - 💞️ I’m looking to collaborate on any projects having to do with Software Development
-- 📫 How to reach Email: cole_harman@yahoo.com ; LinkedIn: https://www.linkedin.com/in/christian-cole-harman-58877a325/
+- 📫 How to reach Email: harmanationbuilds@gmail.com ; LinkedIn: https://www.linkedin.com/in/christian-cole-harman-58877a325/
