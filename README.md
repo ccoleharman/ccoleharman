@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ccoleharman
 - 👀 I’m interested in Professional: Software Engineeing, Programming, Web Development, Coding
-- 🌱 I’m currently learning HTML, CSS, Python, JS,C++, Data Structures, Algorithms
+- 🌱 I’m currently learning HTML, CSS, Python, JS, C++, Rust, Data Structures, Algorithms
 - 💞️ I’m looking to collaborate on any projects having to do with Software Development
 - 📫 How to reach Email: harmanationbuilds@gmail.com ; LinkedIn: https://www.linkedin.com/in/christian-cole-harman-58877a325/
