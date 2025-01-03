@@ -1,6 +1,6 @@
 # Cole Harman's GitHub Profile
 
-Hi there! 👋 I'm **Cole Harman**, a dedicated college student and aspiring leader with interests in technology and entrepreneurship.
+Hi there! 👋 I'm **Cole Harman**, a dedicated college student at Texas A&M University 👍 and aspiring leader with interests in technology and entrepreneurship.
 
 ---
 
