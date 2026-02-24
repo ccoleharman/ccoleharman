@@ -1,15 +1,17 @@
-# Cole Harman's GitHub Profile
+# Cole Harman
 
-Hi there! 👋 I'm **Cole Harman**, a dedicated college student at Texas A&M University 👍 and aspiring leader with interests in technology and entrepreneurship.
+**US Air Force SOC Analyst** | CompTIA Security+ Certified
 
----
+Active duty in Defensive Cyberspace Operations. Passionate about cybersecurity, threat detection, and building secure systems.
 
-## About Me
+- 🎖️ Serving in the United States Air Force
+- 🔐 Security+ certified
+- 📚 Pursuing B.S. in Cybersecurity and Information Assurance
 
-- 🎓 **Student**: Currently attending Texas A&M, pursuing a degree in Computer Science.
-- 🌟 **Future Aspirations**: I'm motivated to make a positive impact, whether in tech or business.
-- 💻 **Tech Enthusiast**: Exploring coding, building projects, and diving into GitHub to collaborate and innovate.
-  
+Tinkering with security projects, scripting, and open-source tools here on GitHub. Open to feedback and collaborations.
+
+Stay secure out there! 🛡️
+
 ---
 
 ## Projects & Repositories
